@@ -22,7 +22,7 @@ jobs:
 
       - name: Install backend dependencies
         run: |
-          cd shop-backend
+          cd shop-backend(v1.2)
           npm install
 
       - name: Run backend tests
