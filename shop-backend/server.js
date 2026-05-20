@@ -23,4 +23,4 @@ app.listen(PORT, () => {
   console.log(`Сервер запущен на http://localhost:${PORT}`);
   console.log(`API товаров: http://localhost:${PORT}/api/products`);
    console.log(`API заказов: http://localhost:${PORT}/api/orders`); 
-});
+}});
